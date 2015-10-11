@@ -5,3 +5,11 @@ summary: text
 description: text
 
 - name must be present
+- name must be between 5 and 100 Characters
+- summary must be present
+- Summary must be between 10 and 150 characters
+- description must be present
+- description must be between 50 and 500 characters
+- chef_id must be present
+
+Testing specs for Chefs
